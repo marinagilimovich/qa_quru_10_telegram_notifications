@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class NegativeTests {
     @Test
-    void some1Test() {
+    void some3Test() {
         assertTrue(false);
     }
 }
